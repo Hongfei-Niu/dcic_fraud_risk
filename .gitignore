@@ -1,0 +1,20 @@
+# ignore selected files
+**/*ignoredContent*
+**/exam*
+
+# ignore cache files
+**/.__pycache__/
+**/.ipynb_checkpoints/
+
+# ignore System & IDEA config files
+**/.DS_Store
+**/.vscode/
+**/.idea/
+**/*.code-workspace
+
+## ignore C++ make files
+**/*.dSYM/
+**/*.cpp
+
+## data
+**/*.csv
